@@ -58,6 +58,14 @@ p {
    
 }
 
+#total-value {
+    color: #79cb15;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
 .item-price {
     font-weight: bold;
      color: #79cb15;
